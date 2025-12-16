@@ -1,6 +1,6 @@
 ﻿<div style="display: flex; align-items: center; gap: 20px;">
   <img src="git-res/logo.png" width="100">
-  <h1 style="margin: 0;">C4 Remastered — Система обезвреживания</h1>
+  <h1 style="margin: 0;">C4: Defuse System — Система обезвреживания</h1>
 </div>
 <br>
 Улучшенная версия аддона C4 с добавленной мини-игрой обезвреживания бомбы.
@@ -45,5 +45,6 @@ https://github.com/user-attachments/assets/e26eefb2-81d5-4f23-99fd-2043e03fd31e
 **Голосовые файлы запрещено использовать на серверах без разрешения!**
 
 Голосовые файлы защищены авторским правом [KYD_EDITS](https://music.yandex.ru/artist/11045621). Для использования на серверах требуется письменное разрешение. Подробности в файле [LICENSE](LICENSE).
+
 
 
