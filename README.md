@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/e26eefb2-81d5-4f23-99fd-2043e03fd31e
 
 ## Ссылки
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="20" align="center"> **Ссылка на Workshop:** _скоро_
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="20" align="center"> **Ссылка на Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=3625020268
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="20" align="center"> **Оригинальный аддон:** [https://steamcommunity.com/sharedfiles/filedetails/?id=297646940](https://steamcommunity.com/sharedfiles/filedetails/?id=297646940)
 
@@ -45,6 +45,7 @@ https://github.com/user-attachments/assets/e26eefb2-81d5-4f23-99fd-2043e03fd31e
 **Голосовые файлы запрещено использовать на серверах без разрешения!**
 
 Голосовые файлы защищены авторским правом [KYD_EDITS](https://music.yandex.ru/artist/11045621). Для использования на серверах требуется письменное разрешение. Подробности в файле [LICENSE](LICENSE).
+
 
 
 
