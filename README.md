@@ -47,5 +47,3 @@ https://github.com/user-attachments/assets/e26eefb2-81d5-4f23-99fd-2043e03fd31e
 Голосовые файлы защищены авторским правом [KYD_EDITS](https://music.yandex.ru/artist/11045621). Для использования на серверах требуется письменное разрешение. Подробности в файле [LICENSE](LICENSE).
 
 
-<img src="https://api.companyenrich.com/logo/music.yandex.ru" width="20" align="center" style="border-radius: 50%;"> **Озвучивал:** [KYD_EDITS](https://music.yandex.ru/artist/11045621)
-
